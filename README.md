@@ -1,5 +1,6 @@
 **Data Scientist Salary Predictor**
 
+---
 
 This Streamlit app predicts a user's annual compensation based on their personal background 
 
@@ -21,8 +22,9 @@ Just input all relevant details related to your personal background!
 
 -ML usage status at current company
 
+---
 
-Predicts an expected salary using a trained regression model
+Predicts an expected annual compensation using a trained regression model
 
 
 ![1](https://github.com/user-attachments/assets/c64dfee0-e895-45c7-89f7-5569d885ceed)
