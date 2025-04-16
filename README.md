@@ -1,4 +1,4 @@
-Data Scientist Salary Predictor
+**Data Scientist Salary Predictor**
 
 This Streamlit app predicts a user's annual compensation based on their background in data science, programming, cloud usage, and professional experience.
 
