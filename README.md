@@ -5,7 +5,7 @@ This Streamlit app predicts a user's annual compensation based on their personal
 
 🔍 Features:
 
--Input all relevant personal and professional details:
+Just input all relevant details related to your personal background!
 
 -Years of coding experience
 
