@@ -26,6 +26,7 @@ Just input all relevant details related to your personal background!
 
 Predicts an expected annual compensation using a trained regression model
 
+---
 
 ![1](https://github.com/user-attachments/assets/c64dfee0-e895-45c7-89f7-5569d885ceed)
 
