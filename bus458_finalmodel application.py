@@ -3,7 +3,7 @@ import pickle
 import pandas as pd
 
 # Load the regression model
-with open(r"C:\Users\klimp\Desktop\bus458_finalmodel.pkl", "rb") as f:
+with open(r"bus458_finalmodel.pkl", "rb") as f:
     model = pickle.load(f)
 
 # Streamlit app title
