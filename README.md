@@ -23,4 +23,4 @@ ML usage status at current company
 Predict expected salary using a trained regression model
 
 
-![1](https://github.com/user-attachments/assets/f8adcda4-c0b9-4388-bff0-5ec6c473b159)
+![1](https://github.com/user-attachments/assets/6456a8f0-3c0b-4f70-b221-4fff23c9c80a)
